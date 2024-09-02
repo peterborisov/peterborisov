@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="left">Pencho Borisov</h1>
+<h3 align="center">React, NextJS, Typescript ecosystem</h3>
 
-<!--
-**peterborisov/peterborisov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
-Here are some ideas to get you started:
+- Design and implement software solutions
+  
+- Enthusiastic, self-motivated, reliable, responsible and hard working person.
+  
+- Team worker and adaptable to all challenging situations.
+  
+- Work well both in a team environment as well as using own initiative.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Nice fun and friendly person.
+  
+- Dedicated, organized and methodical individual. 
+
+<br/>
+
+## 🛠 <b> Tech Stack</b>
+
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,jest,ts,js,babel,webpack,redux,vscode,git,github,gitlab,bitbucket,tailwind,materialui,html,css,emotion,figma,postman,graphql,apollo,mongodb,docker,nodejs,npm,pnpm)  
